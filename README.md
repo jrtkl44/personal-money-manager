@@ -45,6 +45,7 @@ https://github.com/jrtkl44/personal-money-manager
 
 ## Author
 JR Torikul Islam  
-Network Engineer & Co-Founder of BongoLab IT  
+Network Engineer & Developer  
 GitHub: **@jrtkl44**  
 Email: **jrtkl2005@gmail.com**
+Email: **https://www.facebook.com/jrtkl**
