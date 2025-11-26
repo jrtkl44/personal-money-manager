@@ -43,9 +43,10 @@ https://github.com/jrtkl44/personal-money-manager
 2. Update DB credentials in `includes/db.php`  
 3. Deploy on a PHP supported host or local server  
 
-## Author
-JR Torikul Islam  
+## Author  
+**JR Torikul Islam**  
 Network Engineer & Developer  
-GitHub: **@jrtkl44**  
-Email: **jrtkl2005@gmail.com**
+
+GitHub: **[@jrtkl44](https://github.com/jrtkl44)**  
+Email: **jrtkl2005@gmail.com**  
 Facebook: **https://www.facebook.com/jrtkl**
