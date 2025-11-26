@@ -48,4 +48,4 @@ JR Torikul Islam
 Network Engineer & Developer  
 GitHub: **@jrtkl44**  
 Email: **jrtkl2005@gmail.com**
-Email: **https://www.facebook.com/jrtkl**
+Facebook: **https://www.facebook.com/jrtkl**
