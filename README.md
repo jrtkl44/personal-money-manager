@@ -1,5 +1,3 @@
-# personal-money-manager
-
 # Personal Money Manager
 
 A PHP MySQL web application for managing personal finances, adding expenses, tracking activity, and viewing dashboard summaries.
